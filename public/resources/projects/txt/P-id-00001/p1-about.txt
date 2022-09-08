@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/public/resources/gww/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    <title>About</title>
+</head>
+
+<body>
+    <main>
+        <article class="container-content-a" id="id0008">
+            <section class="container-content-s1" id="id0003">
+                <nav class="container-content-s1-nav" id="id0004">
+                    <ul class="container-nav-listItem">
+
+                        <li class="container-content-s1-nav-img">
+                            <a href="index.html">
+                                <img src="/public/resources/img/MTlogo2.png" alt="logo">
+                            </a>
+                        </li>
+
+                        <div class="container-content-s1-nav-l-i">
+                            <a href="https://www.instagram.com/">
+                                <li>
+                                    <i class="fa-brands fa-instagram"></i>
+                                </li>
+                            </a>
+                            <a href="https://www.gmail.com/">
+                                <li class="container-content-s1-nav-btn"><i class="fa-solid fa-envelope"></i>
+                                </li>
+                            </a>
+                            <a href="https://www.github.com/">
+                                <li class="container-content-s1-nav-btn"><span width="60px">Github</span></li>
+                            </a>
+                            <a href="https://www.linkedin.com/">
+                                <li class="container-content-s1-nav-btn"><span>LinkedIn</span></li>
+                            </a>
+                        </div>
+                    </ul>
+                </nav>
+                <h1>About</h1>
+                <hr>
+            </section>
+            <section class="container-content-a-s2" id="id0009">
+                <h2>&lt tell me about it &gt</h2>
+                <div class="c">
+                    <p>I enjoy working with computers a lot. I first became fascinated about and drawn to computers when
+                        I was in high school.
+                        At first, I only used them for gaming, but as time went on, I gradually learned how computers
+                        operate, what external
+                        hardware is, how to maintain them, and how to use it. I learnt how to program a microcontroller
+                        like the Raspberry Pi,
+                        Arduino, and Orange Pi that can be utilized in robotics and electronic device projects when I
+                        started my university
+                        education. My favorite thing to create, even when it's challenging, is algorithms since they
+                        help me produce amazing,
+                        useful results for my projects. &ldquo; I keep working toward my dream of being a
+                        developer. &rdquo;</p>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                    <div class="bg-box"></div>
+                </div>
+            </section>
+            <hr>
+            <section class="container-content-a-s3" id="id00010">
+                <h2>&lt; Educational Background &gt;</h2>
+                <div class="g q1">
+                    <div class="q1-x qg1">
+                        <h3>Primary</h3>
+                        <hr>
+                    </div>
+                    <ul>
+                        <li class="g-q1-x-content-item">School: <span>Maugat Elementary</span></li>
+                        <li class="g-q1-x-content-item">Location: <span>Maugat, Tanauan City, Batangas, PH -
+                                zipcode:4232</span></li>
+                        <li class="g-q1-x-content-item">Period: <span>S.Y 2006 - 2012</span></li>
+                        <li class="g-q1-x-content-item">No. of year: <span>Six years (6)</span></li>
+                        <li class="g-q1-x-content-item">Course: <span>N/A</span></li>
+
+                    </ul>
+                </div>
+                <div class="g q2">
+                    <div class="q1-x qg2">
+                        <hr>
+                        <h3>Secondary</h3>
+                    </div>
+                    <ul>
+                        <li class="g-q1-x-content-item">School: <span>Tanauan School of Fisheries</span></li>
+                        <li class="g-q1-x-content-item">Location: <span>Ambulong, Tanauan City, Batangas, PH -
+                                zipcode:4232</span></li>
+                        <li class="g-q1-x-content-item">Period: <span>S.Y 2012 - 2016</span></li>
+                        <li class="g-q1-x-content-item">No. of year: <span>Four years (4)</span></li>
+                        <li class="g-q1-x-content-item">Course: <span>N/A</span></li>
+
+                    </ul>
+                </div>
+                <div class="g q1">
+                    <div class="q1-x qg3">
+                        <h3>Senior Highschool</h3>
+                        <hr>
+                    </div>
+                    <ul class="m">
+                        <li class="g-q1-x-content-item">School: <span>Nova Schola Tanauan</span></li>
+                        <li class="g-q1-x-content-item">Location: <span>Sambat, Tanauan City, Batangas, PH -
+                                zipcode:4232</span></li>
+                        <li class="g-q1-x-content-item">Period: <span>S.Y 2016 - 2018</span></li>
+                        <li class="g-q1-x-content-item">No. of year: <span>Two years (2)</span></li>
+                        <li class="g-q1-x-content-item">Course: <span>Technical Vocational (TechVoc) Animation</span>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="g q2">
+                    <div class="q1-x qg4">
+                        <hr>
+                        <h3>Tertiary</h3>
+                    </div>
+                    <ul>
+                        <li class="g-q1-x-content-item">School: <span>Tanauan City College (TCC)</span></li>
+                        <li class="g-q1-x-content-item">Location: <span>Trapiche, Tanauan City, Batangas, PH -
+                                zipcode:4232</span></li>
+                        <li class="g-q1-x-content-item">Period: <span>S.Y 2018 - 2022</span></li>
+                        <li class="g-q1-x-content-item">No. of year: <span>Four years (4)</span></li>
+                        <li class="g-q1-x-content-item">Course: <span>Bachelor of Science in Computer Engineering (BS
+                                CoE)</span>
+                        </li>
+
+                    </ul>
+                </div>
+            </section>
+            <hr>
+            <section class="container-content-a-s4" id="id00011">
+                <h2>&lt; Career path &gt;</h2>
+                <div class="n">
+                    <p>I'm currently pursuing my
+                        career as an <a
+                            href="https://www.ziprecruiter.com/e/What-Is-an-Associate-Software-Engineer-Job-Description#:~:text=An%20associate%20software%20engineer%20works%20with%20a%20team,the%20QA%20team%20to%20test%20software%20before%20release.">Associate
+                            Software Engineer</a> and in various entry-level <a
+                            href="https://www.bitdegree.org/tutorials/what-is-a-web-developer/">Web Development</a>
+                        positions. to continue working
+                        productively and to strengthen my development skills. In order to expand my knowledge of
+                        development and to produce more fashionable, functional, and beneficial projects in the future,
+                        I
+                        have begun to attend
+                        various development-related bootcamps. In addition, I am currently engaged in self-study in
+                        order to
+                        better my
+                        understanding of development. I want to apply all of the development talents I've learned over
+                        the
+                        years in the tech industry.</p>
+                </div>
+            </section>
+            <hr>
+            <section class="container-content-a-s5" id="id00012">
+                <h2>&lt; Certificates && Seminars &gt;</h2>
+                <div class="cc1">
+                    <div class="cc1-content-items x1">
+                        <div class="eo1">
+                            <h3>Cybersecurity is a Business Issue (Aboitiz Equity Ventures)
+                            </h3>
+                            <ul>
+                                <li>Location: Tanauan City College</li>
+                                <li>Type: Webinar</li>
+                                <li>Duration: 30 mins</li>
+                                <li>Date: 19.02.2022</li>
+                            </ul>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Aboitiz Equity Ventures.png" alt="">
+                        </div>
+                    </div>
+                    <div class="cc1-content-items x2">
+                        <div class="eo1">
+                            <h3>Cybersecurity iDefense in the Philippine Landscape (CompTia)
+                            </h3>
+                            <ul>
+                                <li>Location: Tanauan City College</li>
+                                <li>Type: Webinar</li>
+                                <li>Duration: 30 mins</li>
+                                <li>Date: 19.02.2022</li>
+                            </ul>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/CompTIA.png" alt="">
+                        </div>
+                    </div>
+                    <div class="cc1-content-items x1">
+                        <div class="eo1">
+                            <h3>Selling Cyber Security to your Board and Senior Management (Exceture Inc.)
+                            </h3>
+                            <ul>
+                                <li>Location: Tanauan City College</li>
+                                <li>Type: Webinar</li>
+                                <li>Duration: 30 mins</li>
+                                <li>Date: 19.02.2022</li>
+                            </ul>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Exceture Inc..png" alt="">
+                        </div>
+                    </div>
+                    <div class="cc1-content-items x2">
+                        <div class="eo1">
+                            <h3>Security Operations in the Cloud (ISACA Manila)
+                            </h3>
+                            <ul>
+                                <li>Location: Tanauan City College</li>
+                                <li>Type: Webinar</li>
+                                <li>Duration: 30 mins</li>
+                                <li>Date: 19.02.2022</li>
+                            </ul>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Isaca.png" alt="">
+                        </div>
+                    </div>
+                    <div class="cc1-content-items x1">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Security is Essential (Linux Professional Institute)
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 30 mins</li>
+                                    <li>Date: 19.02.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Linux Professional Institute.png " alt=" img">
+                        </div>
+                    </div>
+                    <div class=" cc1-content-items x2">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Starting Security Specialization from being QE(QE360)
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 30 mins</li>
+                                    <li>Date: 19.02.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/QE360.png" alt="">
+                        </div>
+                    </div>
+                    <div class="cc1-content-items x1">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Isurf, u surf, CSRF! (Sitesphil)
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 30 mins</li>
+                                    <li>Date: 19.02.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/sitesphil.png" alt="">
+                        </div>
+                    </div>
+                    <div class="cc1-content-items x1">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Building Security Operations Center (Philippine Navy)
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 30 mins</li>
+                                    <li>Date: 19.02.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Philippine Navy.png" alt="">
+                        </div>
+                    </div>
+                    <div class=" cc1-content-items x1">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Basic Networking Tools
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 3+ hours</li>
+                                    <li>Date: 26.03.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Mathew T. Tenorio (1).png" alt="">
+                        </div>
+                    </div>
+                    <div class=" cc1-content-items x1">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Becoming a mobile App Developer
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 3+ hours</li>
+                                    <li>Date: 09.04.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/Mathew T. Tenorio (1).png" alt="">
+                        </div>
+                    </div>
+                    <div class=" cc1-content-items x1">
+                        <div class="eo1">
+                            <div class="eo1">
+                                <h3>Basic Networking Tools
+                                </h3>
+                                <ul>
+                                    <li>Location: Tanauan City College</li>
+                                    <li>Type: Webinar</li>
+                                    <li>Duration: 3+ hours</li>
+                                    <li>Date: 08.04.2022</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dt">
+                            <img src="/public/resources/img/cert/1.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </article>
+        <div class="s">
+            <small style="color: rgb(230, 17, 17);">Note: This information is confidential,
+                sharing with other
+                person and
+                organization is
+                punishable by law. <a href="https://pnl-law.com/blog/laws-on-identity-theft-in-the-philippines/"
+                    style="text-decoration: none; color:aliceblue; font-style:italic">[ Republic Act no.
+                    10175
+                    ]</a>
+            </small>
+        </div>
+        <footer>
+            <small class="owner">MT Development</small>
+            <small class="copyright">
+                Copyright &copy; 2022 by Mathew Tenorio
+            </small>
+            <small>Tanauan City Batangas - Zipcode:4232</small>
+            <small class="privacy">Privacy</small>
+        </footer>
+    </main>
+</body>
+
+</html>

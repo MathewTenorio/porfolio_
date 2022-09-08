@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/public/resources/gww/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    <title>Project</title>
+</head>
+
+<body>
+    <main>
+        <article class="container-content-p" id="id00018">
+            <span class="up"><a href="#id00019">
+                    <i class="fa-solid fa-angles-up"></i>
+                </a>
+            </span>
+            <section class="container-content-s1" id="id0003">
+                <nav class="container-content-s1-nav" id="id0004">
+                    <ul class="container-nav-listItem">
+                        <li class="container-content-s1-nav-img">
+                            <a href="index.html">
+                                <img src="/public/resources/img/MTlogo2.png" alt="logo">
+                            </a>
+                        </li>
+                        <div class="container-content-s1-nav-l-i">
+                            <a href="https://www.instagram.com/">
+                                <li>
+                                    <i class="fa-brands fa-instagram"></i>
+                                </li>
+                            </a>
+                            <a href="https://www.gmail.com/">
+                                <li class="container-content-s1-nav-btn"><i class="fa-solid fa-envelope"></i>
+                                </li>
+                            </a>
+                            <a href="https://www.github.com/">
+                                <li class="container-content-s1-nav-btn"><span width="60px">Github</span></li>
+                            </a>
+                            <a href="https://www.linkedin.com/">
+                                <li class="container-content-s1-nav-btn"><span>LinkedIn</span></li>
+                            </a>
+                        </div>
+                    </ul>
+                </nav>
+                <h1>Project</h1>
+                <hr>
+                <h2>What??</h2>
+                <p>My hobby is creating web applications and websites that can be viewed by several individuals. Here
+                    are some of my
+                    projects in which I used several languages, text scripts, and tools to provide application
+                    functionality, user
+                    interface, and online access. Some of my projects are the result of OJT, Bootcamp training, or a
+                    personal project.
+                    Working with code and confronting new challenges makes my development career more fruitful;
+                    adjusting to new
+                    technologies and languages is also good practice for me. I intend to add more projects in the
+                    future.</p>
+                <hr>
+            </section>
+            <section class="container-content-p-s2" id="id00019">
+                <h2>&lt; Project list &gt;</h2>
+                <div class="p-list-con">
+                    <a href="#P-id-00001">
+                        <div class="all-p">
+                            <img src="" alt="">
+                            <div class="all-i">
+                                <p><span>Project: </span> Portfolio</p>
+                                <p><span>Date: </span> September 2022</p>
+                                <p><span>Type: </span>Web Application</p>
+                                <p><span>Languages: </span>HTML, CSS, Github</p>
+                                <p><span>Database: </span>NA</p>
+                                <p><span>App type: </span>Static</p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#P-id-00002">
+                        <div class="all-p">
+                            <img src="" alt="">
+                            <div class="all-i">
+                                <p><span>Project: </span>Photo Gallery</p>
+                                <p><span>Date: </span> Sept 2022</p>
+                                <p><span>Type: </span> Website</p>
+                                <p><span>Languages: </span>HTML, CSS, Github</p>
+                                <p><span>Database: </span>NA</p>
+                                <p><span>App type: </span>NA</p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#P-id-00003">
+                        <div class="all-p">
+                            <img src="" alt="">
+                            <div class="all-i">
+                                <p><span>Project: </span>Travel</p>
+                                <p><span>Date: </span> August 2022</p>
+                                <p><span>Type: </span> Web Application</p>
+                                <p><span>Languages: </span>HTML, CSS, JScript, NodeJS,more.</p>
+                                <p><span>Database: </span>MonggoDB</p>
+                                <p><span>App type: </span>Static</p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#P-id-00004">
+                        <div class="all-p">
+                            <img src="" alt="">
+                            <div class="all-i">
+                                <p><span>Project: </span>TCC Schedulling System</p>
+                                <p><span>Date: </span> March 2022</p>
+                                <p><span>Type: </span> Web Application</p>
+                                <p><span>Languages: </span>PHP, Bootstrap, JScript, HTML, more.</p>
+                                <p><span>Database: </span>MySql</p>
+                                <p><span>App type: </span>Dynamic</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </section>
+            <hr>
+            <section class="container-content-p-s2" id="P-id-00001">
+                <h2>&lt; Portfolio Web Application &gt;</h2>
+                <div class="j-con">
+                    <div class="b1">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure corrupti necessitatibus
+                            laudantium temporibus molestiae facilis, fuga voluptatem fugiat voluptate voluptas officia
+                            dolorum itaque, sequi sint porro laborum dolor minima iste odit earum tempora aliquam non
+                            blanditiis. Autem, molestiae, labore maxime earum, veritatis natus eveniet odio omnis iure
+                            nulla nihil cumque.</p>
+                    </div>
+                    <div><img src="/public/resources/img/edit/p100001.png" alt=""></div>
+                </div>
+                <div class="ax01">
+                    <p>Languages/tools: HTML, CSS, Github, Visual Studio </p>
+                </div>
+                <div class="ax02">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere sequi laboriosam numquam
+                        repudiandae quasi rem totam veritatis, recusandae consequuntur sunt cum maxime laborum quod.
+                        Modi sed nesciunt aperiam dolores magni! Numquam blanditiis odio delectus iusto corrupti
+                        reiciendis fugiat quia quam esse beatae laboriosam, velit repellendus impedit. Alias tempore cum
+                        autem.</p>
+                </div>
+
+                <div class="x-con">
+                    <h3>Code Overview</h3>
+                    <div class="x-con-w">
+                        <div class="em">
+                            <h4>index.html</h4>
+                            <iframe src="/public/resources/projects/txt/p1-index.txt" frameborder="5"></iframe>
+                        </div>
+                        <div class="ym">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos rerum tempora possimus
+                                obcaecati ab saepe illo nihil ratione provident reiciendis quis voluptas hic delectus
+                                ipsam necessitatibus totam, sed ad. Quam.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-con">
+                    <div class="x-con-w">
+                        <div class="em">
+                            <h4>about.html</h4>
+                            <iframe src="/public/resources/projects/txt/p1-index.txt" frameborder="5"></iframe>
+                        </div>
+                        <div class="ym">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos rerum tempora possimus
+                                obcaecati ab saepe illo nihil ratione provident reiciendis quis voluptas hic delectus
+                                ipsam necessitatibus totam, sed ad. Quam.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-con">
+                    <div class="x-con-w">
+                        <div class="em">
+                            <h4>skills.html</h4>
+                            <iframe src="/public/resources/projects/txt/p1-index.txt" frameborder="5"></iframe>
+                        </div>
+                        <div class="ym">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos rerum tempora possimus
+                                obcaecati ab saepe illo nihil ratione provident reiciendis quis voluptas hic delectus
+                                ipsam necessitatibus totam, sed ad. Quam.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-con">
+                    <div class="x-con-w">
+                        <div class="em">
+                            <h4>projects.html</h4>
+                            <iframe src="/public/resources/projects/txt/p1-index.txt" frameborder="5"></iframe>
+                        </div>
+                        <div class="ym">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos rerum tempora possimus
+                                obcaecati ab saepe illo nihil ratione provident reiciendis quis voluptas hic delectus
+                                ipsam necessitatibus totam, sed ad. Quam.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-con">
+                    <div class="x-con-w">
+                        <div class="em">
+                            <h4>contact.html</h4>
+                            <iframe src="/public/resources/projects/txt/p1-index.txt" frameborder="5"></iframe>
+                        </div>
+                        <div class="ym">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos rerum tempora possimus
+                                obcaecati ab saepe illo nihil ratione provident reiciendis quis voluptas hic delectus
+                                ipsam necessitatibus totam, sed ad. Quam.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+            <hr>
+            <section class="container-content-p-s2" id="P-id-00002">
+                <h2>&lt; Photo Gallery Website &gt;</h2>
+            </section>
+            <hr>
+            <section class="container-content-p-s2" id="P-id-00003">
+                <h2>&lt; Travel Web Application &gt;</h2>
+            </section>
+            <hr>
+            <section class="container-content-p-s2" id="P-id-00004">
+                <h2>&lt; TCC Schedulling System &gt;</h2>
+            </section>
+        </article>
+        <footer>
+            <small class="owner">MT Development</small>
+            <small class="copyright">
+                Copyright &copy; 2022 by Mathew Tenorio
+            </small>
+            <small>Tanauan City Batangas - Zipcode:4232</small>
+            <small class="privacy">Privacy</small>
+        </footer>
+    </main>
+
+</body>
+
+</html>

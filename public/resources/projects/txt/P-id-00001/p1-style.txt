@@ -1,0 +1,807 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Roboto:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Fjalla+One&family=Roboto:wght@300&family=Varela+Round&display=swap');
+
+body {
+    background-color: #00203FFF;
+    background-image: linear-gradient(to bottom, #00203FFF, rgb(2, 17, 32));
+    height: auto;
+    width: auto;
+}
+
+main {
+    max-height: 2000vh;
+    max-width: 100vw;
+    min-width: 5vw;
+
+}
+
+main .container-bg-1 {
+    position: absolute;
+    height: 120vh;
+    overflow-y: hidden;
+    z-index: -1;
+}
+
+main .container-bg-1 img {
+    height: 70vw;
+    opacity: 20%;
+}
+
+main article section {
+    min-height: 15vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Section #1 style command*/
+main article #id0003 nav ul li a img {
+    height: 60px;
+    min-height: 40px;
+    max-height: 100px;
+    transition: all .1s;
+}
+
+main article #id0003 nav ul li a img:hover {
+    height: 65px;
+}
+
+main article #id0003 nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+main article #id0003 nav ul div {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+main article #id0003 nav ul div a {
+    text-decoration: none;
+}
+
+main article #id0003 nav ul div a li {
+    color: #ADD8E6;
+    transition: all .1s;
+}
+
+main article #id0003 nav ul div a li:hover {
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+main article #id0003 nav ul div a:nth-of-type(1) {
+    width: 30px;
+}
+
+main article #id0003 nav ul div a:nth-of-type(2) {
+    width: 30px;
+}
+
+main article #id0003 nav ul li:nth-of-type(1) {
+    flex-basis: 70%;
+}
+
+/* Section #2 style command*/
+main article #id0005 .t {
+    height: 80vh;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+main article #id0005 .t #id0006 {
+    flex-basis: 50%;
+}
+
+
+main article #id0005 #id0006 ul {
+    list-style: none;
+    align-items: center;
+}
+
+main article #id0005 #id0006 ul a {
+    text-decoration: none;
+}
+
+main article #id0005 #id0006 ul a li {
+    border: solid black;
+    width: 15vw;
+    min-width: 10vw;
+    max-width: 30vw;
+    text-align: end;
+    margin-left: -2.5rem;
+    margin-bottom: 2%;
+    margin: 0 0 2% -23%;
+    padding: 3% 5% 3% 3%;
+    border: solid #00CED1;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 100%;
+    color: #27ced1;
+    overflow-wrap: break-word;
+    transition: all 0.2s;
+}
+
+main article #id0005 #id0006 ul a li:hover {
+    color: #FFD700;
+    border-color: #FFD700;
+    font-size: 1.5rem;
+    width: 17vw;
+    margin-bottom: 8%;
+}
+
+main article #id0005 #id0007 {
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 70vw;
+    height: 60vh;
+    overflow-wrap: break-word;
+}
+
+main article #id0005 #id0007 div:nth-of-type(1) {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    color: #87CEFA;
+}
+
+
+main article #id0005 #id0007 div:nth-of-type(2) {
+    font-family: 'Secular One', sans-serif;
+    font-size: 7rem;
+    color: #87CEFA;
+    width: 100%;
+    letter-spacing: .1rem;
+    overflow-wrap: break-word;
+}
+
+main article #id0005 #id0007 div:nth-of-type(3) {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    color: #ADD8E6;
+    margin: -.5em 0 10% 0;
+    width: 100%;
+}
+
+main article #id0005 #id0007 p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    text-indent: 3em;
+    color: #ADD8E6;
+}
+
+
+/* About page <!> 
+Section #3 Style Command*/
+
+main #id0008 {
+
+    display: flex;
+    flex-direction: column;
+}
+
+main #id0008 #id0003 h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #87CEFA;
+    margin-left: 42%;
+    width: 20%;
+}
+
+main #id0008 section h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    text-indent: 3em;
+    font-style: italic;
+    color: #ADD8E6;
+}
+
+main #id0008 #id0009 .c .bg-2 div:nth-of-type(2) img {
+    position: absolute;
+    margin-left: 1%;
+    opacity: 5%;
+}
+
+main #id0008 #id0009 .c {
+    display: flex;
+    flex-direction: row;
+
+}
+
+main #id0008 #id0009 p {
+    height: 67vh;
+    width: 25vw;
+    border: solid #fff;
+    border-radius: 10%;
+    padding: 2%;
+    margin-left: 10%;
+    color: #ADD8E6;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+    text-indent: 10%;
+    line-height: 1.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+main #id0008 #id0009 .c div:nth-of-type(1) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 6% 0 0 1%;
+    opacity: 40%;
+}
+
+main #id0008 #id0009 .c div:nth-of-type(2) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 10% 0 0 -.3%;
+    opacity: 10%;
+}
+
+main #id0008 #id0009 .c div:nth-of-type(3) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 6% 0 4% 1%;
+    opacity: 7%;
+
+}
+
+main #id0008 #id0009 .c div:nth-of-type(4) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 5% 0 4% -2%;
+    opacity: 2%;
+}
+
+main #id0008 #id0009 .c div:nth-of-type(5) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 30% 0 0 -10%;
+    opacity: 20%;
+}
+
+main #id0008 #id0009 .c div:nth-of-type(6) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 22% 0 0 -.3%;
+    opacity: 9%;
+}
+
+main #id0008 #id0009 .c div:nth-of-type(7) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 15% 0 4% 4%;
+    opacity: 5%;
+
+}
+
+main #id0008 #id0009 .c div:nth-of-type(8) {
+    height: 10vh;
+    width: 5vw;
+    border: solid #fff;
+    border-radius: 10%;
+    margin: 5% 0 4% -2%;
+    opacity: 2%;
+}
+
+hr {
+    margin: 5% 0 10% 5%;
+    width: 85vw;
+    opacity: 50%;
+
+}
+
+/* Section #4 Style Command */
+
+main #id0008 #id00010 .g {
+    background-color: #1d2158a5;
+    box-shadow: 10px 10px #545ab551;
+    padding: 0 2% 0 1%;
+    width: 50vw;
+    height: 30vh;
+}
+
+main #id0008 #id00010 .g .q1-x {
+    display: flex;
+    flex-direction: row;
+    height: 30%;
+}
+
+main #id0008 #id00010 .g .q1-x hr {
+    max-width: 80%;
+    min-width: 10%;
+    opacity: 100%;
+    height: 1px;
+    border: none;
+    background-color: #fff;
+}
+
+main #id0008 #id00010 .g .q1-x h3 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: .9rem;
+    letter-spacing: 1.5px;
+    color: #fff;
+}
+
+main #id0008 #id00010 .g .qg1 h3 {
+    margin-top: 3.5%;
+}
+
+main #id0008 #id00010 .g .qg2 h3 {
+    margin-top: 3.5%;
+    margin-left: 5%;
+}
+
+main #id0008 #id00010 .g .qg3 h3 {
+    margin-top: 3.5%;
+    width: 290px;
+
+}
+
+main #id0008 #id00010 .g .qg4 h3 {
+    margin-top: 3.5%;
+    margin-left: 5%;
+}
+
+main #id0008 #id00010 .q1 {
+    margin: 0 0 5% 10%;
+}
+
+main #id0008 #id00010 .q2 {
+    margin: 0 0 5% 40%;
+}
+
+main #id0008 #id00010 .g ul {
+    list-style: none;
+    margin: -.5% 0 0 0;
+}
+
+main #id0008 #id00010 .g ul li {
+    list-style: none;
+    margin: 0 0 1% 0;
+    font-family: 'Varela Round', sans-serif;
+    font-size: .8rem;
+    color: #FFF;
+}
+
+main #id0008 #id00010 .q1 ul {
+    margin-left: 8%;
+}
+
+/* #5 Section Style Command */
+main #id0008 #id00011 {
+    flex-direction: column;
+    height: 50vh;
+    align-items: center;
+    margin-right: 10%;
+}
+
+main #id0008 #id00011 .n {
+    height: 25vh;
+    width: 80vw;
+    max-height: 70vh;
+}
+
+
+main #id0008 #id00011 .n p {
+    font-family: 'Varela Round', sans-serif;
+    font-size: .8rem;
+    text-indent: 10%;
+    text-align: justify;
+    line-height: 1.5em;
+    color: #FFF;
+    background-color: #1d2158a5;
+    border-radius: 2%;
+    width: auto;
+    min-width: 20vw;
+    max-height: 70vh;
+    margin-left: 10%;
+    padding: 2%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+main #id0008 #id00011 .n p a {
+    font-style: italic;
+    color: rgb(82, 225, 244);
+    text-decoration: none;
+
+}
+
+/* #5 Sections style command */
+main #id0008 #id00012 h2 {
+    margin-bottom: 5%;
+}
+
+main #id0008 #id00012 .cc1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main #id0008 #id00012 .cc1 .cc1-content-items {
+    background-color: #1d2158a5;
+    border-radius: 2px;
+    margin-bottom: 5%;
+    margin-left: -20%;
+    padding: 1% 1.5% 1% 1.5%;
+    height: 25vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    transition: all .1s;
+}
+
+
+
+main #id0008 #id00012 .cc1 .cc1-content-items:hover {
+    height: 27vh;
+    width: 52vw;
+    transform: translateX(25%);
+}
+
+
+
+main #id0008 #id00012 .cc1 .cc1-content-items .eo1 h3 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1rem;
+    color: #FFF;
+}
+
+main #id0008 #id00012 .cc1 .cc1-content-items .eo1 ul li {
+    list-style: none;
+    font-family: 'Varela Round', sans-serif;
+    font-size: .8rem;
+    font-style: italic;
+    color: #FFF;
+    margin-bottom: 2%;
+}
+
+main #id0008 #id00012 .cc1 .cc1-content-items .dt img {
+
+    height: 25vh;
+    width: 18vw;
+}
+
+/* Skills page
+#1 Section Style Command */
+
+main #id00014 #id0003 h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #87CEFA;
+    margin-left: 42%;
+    width: 20%;
+}
+
+main #id00014 {
+    max-height: 500vh;
+    max-width: 100vw;
+
+}
+
+main #id00014 #id00015 {
+    padding: 0 10% 0 10%;
+    color: #FFF;
+}
+
+main #id00014 #id00015 .fg {
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    height: auto;
+    align-items: center;
+}
+
+main #id00014 #id00015 .fg .fg-content-items {
+    background-color: #1d2158a5;
+    height: auto;
+    width: 50vw;
+    border: solid rgba(255, 255, 255, 0.698);
+    border-radius: 10px;
+    border-color: #fff;
+    margin: 0 0 10% 0;
+    box-shadow: .7rem .7rem #91919b19;
+}
+
+main #id00014 #id00015 .fg .fg-content-items h3 {
+    background-color: #FFF;
+    margin-top: -.2rem;
+    padding-top: .5rem;
+    height: 2rem;
+    color: #1d2158;
+    font-family: 'Fjalla One', sans-serif;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+main #id00014 #id00015 .fg .fg-content-items h3 span {
+    margin-left: 1rem;
+}
+
+main #id00014 #id00015 .fg .fg-content-items h4 {
+    color: #FFF;
+    margin-left: 3%;
+
+}
+
+main #id00014 #id00015 .fg .fg-content-items ul li {
+    list-style: none;
+    color: #FFF;
+    margin: 0 0 1% 5%;
+}
+
+main #id00014 #id00015 .fg .fg-content-items .i {
+    border: dashed #FFF;
+    margin: 0 0 7% 25%;
+    width: 20rem;
+    height: 3rem;
+}
+
+
+/* Contact page
+#1 Section Style Command */
+main #id00016 #id0003 h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #87CEFA;
+    margin-left: 38%;
+    width: 20%;
+}
+
+main #id00016 #id00017 .c1 {
+    background-color: #1d2158;
+    height: 60vh;
+    width: 70vw;
+    margin-bottom: 10%;
+    margin-left: 7%;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+main #id00016 #id00017 .c1 h2 {
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #00CED1;
+    text-align: center;
+    margin: -2% 0 2% 0;
+}
+
+main #id00016 #id00017 .c1 .s {
+    margin: 10rem 0 0 0;
+}
+
+main #id00016 #id00017 .c1 p {
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #00CED1;
+}
+
+/* Project page
+#1 Section Style command */
+main #id00018 .up i {
+    position: fixed;
+    color: #ffffff;
+    top: 70%;
+    left: 95%;
+    font-size: 3rem;
+    opacity: 5%;
+    transition: all .1s;
+}
+
+main #id00018 .up i:hover {
+    font-size: 5rem;
+    opacity: 50%;
+    cursor: pointer;
+
+}
+
+main #id00018 #id0003 h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #87CEFA;
+    margin-left: 38%;
+    width: 20%;
+}
+
+main #id00018 #id0003 h2 {
+    color: white;
+    margin: 0 0 5% 0;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+}
+
+main #id00018 #id0003 p {
+    color: white;
+    width: 50vw;
+    height: 30vh;
+    margin: 0 0 0 25%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main #id00018 .container-content-p-s2 {
+    margin: 0 0 0 5%;
+}
+
+main #id00018 .container-content-p-s2 h2 {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    margin: 0 0 5% 0;
+}
+
+main #id00018 #id00019 .p-list-con {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 85vw;
+    height: 150vh;
+    padding: 2% 2% 10% 2%;
+}
+
+main #id00018 #id00019 .p-list-con a {
+    text-decoration: none;
+}
+
+main #id00018 #id00019 .p-list-con a .all-p {
+    border: solid white;
+    border-radius: 10px;
+    width: 25vw;
+    height: 60vh;
+    transition: all .1s;
+    margin-bottom: 10%;
+}
+
+main #id00018 #id00019 .p-list-con a .all-p:hover {
+    margin: -5% 0 0 0;
+    cursor: pointer;
+}
+
+main #id00018 #id00019 .p-list-con a .all-p img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 35vh;
+    width: 24.5vw;
+    margin: 1% 0 2% 1%
+}
+
+main #id00018 #id00019 .p-list-con a .all-p .all-i p {
+    line-height: .2rem;
+}
+
+main #id00018 #id00019 .p-list-con a .all-p .all-i {
+    margin: -1% 0 20% 2%;
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main #id00018 #P-id-00001 .j-con {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    height: 50vh;
+    width: 80vw;
+    padding: 2%;
+    background-color: #1d215831;
+}
+
+main #id00018 #P-id-00001 .j-con .b1 p {
+    width: 30vw;
+    height: 80vh;
+    color: rgb(223, 223, 223);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main #id00018 #P-id-00001 .j-con img {
+    width: 30vw;
+    height: 50vh;
+}
+
+main #id00018 #P-id-00001 .ax01 p {
+    color: rgb(175, 171, 171);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main #id00018 #P-id-00001 .ax02 p {
+
+    width: 50vw;
+    text-align: center;
+    margin: 10% 0 10% 20%;
+    color: rgb(175, 171, 171);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main #id00018 #P-id-00001 .x-con h3 {
+    color: rgb(207, 227, 27);
+    font-size: 2rem;
+}
+
+main #id00018 #P-id-00001 .x-con .x-con-w {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0 0 10% 0;
+}
+
+main #id00018 #P-id-00001 .x-con .x-con-w .em h4 {
+    color: rgb(27, 190, 227);
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main #id00018 #P-id-00001 .x-con .x-con-w .em iframe {
+    background-color: #bababab8;
+    height: 100vh;
+    width: 50vw;
+}
+
+main #id00018 #P-id-00001 .x-con .x-con-w .ym {
+    width: 30vw;
+    height: 50vh;
+    padding: 3%;
+    text-align: center;
+    margin: 5% 0 0 0;
+    background-color: #1d21584c;
+}
+
+main #id00018 #P-id-00001 .x-con .x-con-w .ym p {
+    color: rgb(27, 190, 227);
+    font-size: .9rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+footer {
+
+    position: relative;
+    height: 25vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgba(2, 31, 62, 0.824);
+
+}
+
+footer small {
+    font-size: .8rem;
+    color: #05dde0;
+    margin-bottom: .5rem;
+}
+
+footer .owner {
+    margin-top: 2rem;
+}
